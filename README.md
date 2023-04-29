@@ -17,5 +17,4 @@ pyinstaller.exe --onefile -w .\main.pyw
 
 ## A mejorar
 
-- Crear un metodo para guardar el archivo de error.
 - Encriptar las credenciales.
