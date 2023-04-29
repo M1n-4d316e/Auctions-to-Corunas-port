@@ -1,4 +1,4 @@
-# JSON-to-Corunas-port
+# XML-to-Corunas-port
 
 Aplicación para mandar datos referentes a subastas y recoger pesos ordenadors por fecha de la lonja de la Coruña.
 
